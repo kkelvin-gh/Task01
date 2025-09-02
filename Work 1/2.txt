@@ -1,0 +1,8 @@
+A variable can be simply defined as a container that is used to store data
+
+Example: 
+
+# Variable storing data
+k = 10 
+# Prints variable
+print(k) 

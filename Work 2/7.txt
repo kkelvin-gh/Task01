@@ -1,0 +1,4 @@
+myTotal = 8 + 2 * 10
+print(myTotal)
+
+Now the * has more precedence, so it will execute first

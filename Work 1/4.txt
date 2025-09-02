@@ -1,0 +1,2 @@
+In python, we do not have println() function, as print() function allows us to insert a new line 
+and if we dont want a new line, we can use end keyword

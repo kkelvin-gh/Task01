@@ -1,0 +1,9 @@
+myTotal = 8 + 10 / 2
+print(myTotal)
+
+Here, the / operator have more precedence, so it will execute first
+
+myTotal = (8 + 10) / 2
+print(myTotal)
+
+Here, the () have more precedence, so it will execute first

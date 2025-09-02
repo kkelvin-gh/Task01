@@ -1,0 +1,2 @@
+Which of the following statements assigns the value 100 to the variable x in Python:
+D. x = 100

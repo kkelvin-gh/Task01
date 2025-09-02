@@ -1,0 +1,4 @@
+myTotal = (8 + 2) * 10
+print(myTotal)
+
+As parentheses () has more precedence, it will execute first

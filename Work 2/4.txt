@@ -1,0 +1,4 @@
+myTotal = 4 + 2 * 8 - 6 
+print(myTotal)
+
+Due to operator precedence, we got output as 14

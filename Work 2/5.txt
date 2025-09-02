@@ -1,0 +1,4 @@
+myTotal = 7 // 5 
+print(myTotal)
+
+Due to double slashes, we got the whole number, if we have use single slash, we would get in decimal point
