@@ -1,0 +1,4 @@
+-In python, you don’t need to declare a variable before assigning it a value. You can just assign it, 
+and python will create it for you. Python does not need explicit declaration.
+
+-Python auto declares type when assigned.

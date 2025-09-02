@@ -1,0 +1,2 @@
+Which of the following would give a syntax error?
+C. x = 10, y =’Hello’, z = True
